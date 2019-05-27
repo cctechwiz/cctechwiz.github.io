@@ -4,4 +4,4 @@ markdown: kramdown
 collections:
   pages:
     output: true
-    permalin: /:collection/:name/
+    permalin: /:collection/:name:output_ext
