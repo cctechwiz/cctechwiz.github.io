@@ -1,2 +1,6 @@
 name: Josh Maxwell, cctechwiz
 markdown: kramdown
+
+collections:
+  pages:
+    output: true
