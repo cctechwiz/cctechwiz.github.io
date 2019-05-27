@@ -7,4 +7,4 @@ collections:
     permalin: /:collection/:name:output_ext
 
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
