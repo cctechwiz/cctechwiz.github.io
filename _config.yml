@@ -6,5 +6,3 @@ collections:
     output: true
     permalin: /:collection/:name:output_ext
 
-
-theme: jekyll-theme-midnight
