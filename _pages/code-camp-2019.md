@@ -25,7 +25,7 @@ Each participant must be able to bring their own laptop.
 
 
 ## Registration ##
-[Google Forms Registration]()
+[Google Forms Registration](https://forms.gle/PqeRzNcBvSZtSqHf9)
 
 
 ## Curriculum Overview ##
