@@ -17,7 +17,7 @@ Sessions:
 
 
 ## Cost ##
-25$ per session
+30$ per session ($150 for all 5 sessions)
 
 
 ## Requirements ##
@@ -29,5 +29,20 @@ Each participant must be able to bring their own laptop.
 
 
 ## Curriculum Overview ##
-Details will be released soon.
-There will be optional homework that will enhance their experience and increase their learning.
+- Week 1 (6/22)
+  - Topics: inputs, outputs, control flow
+  - Project: choose your own adventure
+- Week 2 (6/29)
+  - Topics: TBD
+  - Project: TBD
+- Week 3 (7/6)
+  - Topics: TBD
+  - Project: TBD
+- Week 4 (7/13)
+  - Topics: TBD
+  - Project: TBD
+- Week 5 (7/20)
+  - Topics: TBD
+  - Project: TBD
+
+There will be optional homework that will enhance their experience and increase their learning. Usually the homework will follow or enhance the project started during the session.
