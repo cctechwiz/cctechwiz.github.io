@@ -10,9 +10,9 @@ Sessions will be held at my house from 9 AM to 12 PM (3 hours).
 - Note: Times are tentative and can change based on conflicts or your feedback.
 
 Sessions:
-- 6/22 (possible time shift due to personal conflict)
+- 6/22
 - 6/29
-- 7/6 (weekend of the 4th FYI)
+- 7/6 (FYI: weekend of the 4th)
 - 7/13
 - 7/20
 
@@ -42,19 +42,32 @@ There are no grades and NO right or wrong answers to the projects or homeworks, 
 ## Tentative Curriculum ##
 Here is a tentative schedule of the class. Right now there are lots of holes. Over the next couple of weeks it will fill up; as I get your responses to the registration survey, and as I gather all my resources together. I use the word tentative because I will more likely than not change it up based on how each session goes to make sure it is a comfortable pace and challenge level for everyone. Additionally, I am always open to suggestions or feedback regarding what we are learning. This is your camp and I want you to feel like you're learning and having fun.
 
-- Week 1 (6/22)
+Week 1 (6/22) - Basics
+
   - Topics: Intro, Setup, Variables, Inputs, Outputs, Control flow
   - Projects: Rock, Paper, Scissors; Choose your own adventure story
-- Week 2 (6/29)
-  - Topics: TBD
+  
+  
+Week 2 (6/29) - Beyond Basics
+
+  - Topics: Functions, Classes, Pip packages, etc.
   - Projects: TBD
-- Week 3 (7/6)
-  - Topics: Web
-  - Projects: TBD
-- Week 4 (7/13)
-  - Topics: PyGame
+  
+  
+Week 3 (7/6) - Web
+
+  - Topics: Web sites building, Web scraping, Network communication
+  - Projects: Networked Rock, Paper, Scissors, etc.
+  
+  
+Week 4 (7/13) - Games
+
+  - Topics: PyGame, Godot?
   - Projects: Spot The Difference; [Butterscotch ShenaniJam](https://itch.io/jam/bscotch2019)
-- Week 5 (7/20)
+  
+  
+Week 5 (7/20) - TBD
+
   - Topics: TBD
   - Projects: TBD
 
