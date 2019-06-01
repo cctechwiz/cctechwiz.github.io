@@ -32,6 +32,8 @@ Each participant must be able to bring their own laptop.
 ## Introduction ##
 We will be coding in the latest version of Python, [Python3](https://www.python.org/).
 
+We will be using [CodeEnvy](https://codenvy.io), and online development environment to make it easier for everyone to be on the same page regardless of their laptop. This environment allows us to use [GitHub](https://github.com/) repositories to save and version project work.
+
 The main idea of this code camp is to first lay a solid foundation of programming fundamentals. Then provide brief introductions into various use cases and areas of application.
 
 We cannot cover everything during the 3 hours we meet together each week. You will get the most out of this experience if you take time during the week between sessions to practice, explore, and build on the skills we covered. That is the primary reason that the camp is spread out over multiple weeks; to allow time for material to sink in via self-exploration, practice, and struggling; it is hightly encouraged that you do so! I will be available via email (or chat - we'll talk about this on day one) during the week to answer questions and help guide you towards discovering the solutions.
