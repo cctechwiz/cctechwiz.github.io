@@ -44,6 +44,9 @@ There are no grades and NO right or wrong answers to the projects or homeworks, 
 ## Tentative Curriculum ##
 Here is a tentative schedule of the class. Right now there are lots of holes. Over the next couple of weeks it will fill up; as I get your responses to the registration survey, and as I gather all my resources together. I use the word tentative because I will more likely than not change it up based on how each session goes to make sure it is a comfortable pace and challenge level for everyone. Additionally, I am always open to suggestions or feedback regarding what we are learning. This is your camp and I want you to feel like you're learning and having fun.
 
+Here is the link to the repository with the class notes, examples, and project starter code.
+https://github.com/cctechwiz-teaching/python-code-camp
+
 Week 1 (6/22) - Basics
 
   - Topics: Intro, Setup, Variables, Inputs, Outputs, Control flow
